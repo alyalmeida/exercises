@@ -1,11 +1,11 @@
 package Beginner;
 
-public class ExtremelyBasicw {
+public class LogicalSequence1144 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello world!");
 		
+
 	}
 
 }
